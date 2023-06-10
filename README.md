@@ -1,11 +1,16 @@
 # reddit-comment-deleter
 This script deletes your reddit history without using the reddit API.
 
+# Setup:
+1. Install python and pip.
+2. Install "pyautogui" library through pip.
+3. clone repository.
+
 # How to use:
 1. Open your browser
 2. Login to reddit
 3. click your username
-4. run the script, and then make sure that your browser is the active window
+4. run the script (main.py), and then make sure that your browser is the active window
 5. repeat step 4 for each sorting method (hot, top, new, controversial)
 
 
